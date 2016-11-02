@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActionBarAvanzado</string>
+    <string name="fragment1">Fragmento 1</string>
+    <string name="fragment2">Fragmento 2</string>
+</resources>
